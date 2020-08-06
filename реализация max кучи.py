@@ -2,7 +2,6 @@
 # Реализация max кучи с имеющимся массивом
 
 import random
-A = []
 B = []
 
 for n in range(15):
